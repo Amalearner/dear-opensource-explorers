@@ -75,7 +75,8 @@ If you’d like to help **Dear OpenSource Explorers**, here’s how you can get 
 3. **Make Changes**: Add new guides, share your resources, or improve existing content.
 4. **Submit a Pull Request**: Once you’re done, submit a pull request with your changes.
 
-Your contributions can be small, and every bit counts! Even though you create or improve a tutorial or share a useful resource, you’re helping build a more inclusive open-source community.
+Your contributions can be small, and every bit counts! Even though you create or improve a tutorial or share a useful resource, you’re helping build a more inclusive open-source community. If you're still not convinced that open source projects need you, check out this article by [The READme Project](https://github.com/readme) on **[Non-code contributions are the secret to open source success.](https://github.com/readme/featured/open-source-non-code-contributions)**
+
 
 
 Happy contributing! 🚀
